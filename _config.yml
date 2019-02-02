@@ -1,0 +1,38 @@
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: false
+
+comments: true
+
+#source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: UCD Netsoc
+description: "UCD's Computing and Networking Society"
+keywords: "netsoc, ucd, ucd netsoc"
+url: http://netsoc.ucd.ie"
+baseurl: ""
+
+# Author settings
+author:
+  github: https://github.com/ucdnetsoc
+  twitter: https://twitter.com/ucdnetsoc
+  facebook: https://facebook.com/ucdnetsoc
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: docs
+    title: Docs
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
