@@ -18,4 +18,3 @@ We are Netsoc — UCD's networking and computing society.
 * Events Officers: John Keegan, Peter O'Donnell, Matthew Barrett
 * Graphic Designer: Daniel Portela Byrne
 * Ordinary Committee Member: Thomas Reilly, Patrick Hession, Sinead Farrell
-* First Year Reps: Nicole McCabe & Killian Heanue
