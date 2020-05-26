@@ -4,17 +4,16 @@ title: About
 permalink: /about/
 ---
 
-We are Netsoc — UCD's networking and computing society.
+We are Netsoc, UCD's Internet & Computer Science Society.
 
-### Committee 2019/20:
+### Committee 2020/21:
 
-* Auditor: Thomas Creavin
-* Vice Auditor: Nicola McCabe
+* Auditor: Nicole McCabe
+* Vice Auditor: Seán Lacey
 * Treasurer: Liew Xuan
-* Assistant Secretary: Oisín Quinn
-* Head SysAdmin: Adrian Wennberg
-* Liaison Officer: Darragh Clarke
-* Public Relations Officer: Séan Lacey
-* Events Officers: John Keegan, Peter O'Donnell, Matthew Barrett
+* Ex Officio: Thomas Creavin
+* Head SysAdmin: David Loftus
+* Public Relations Officer: Karen Kelly
+* Events Officers: John Keegan, Gerard Colman, Ashraf Ali
 * Graphic Designer: Daniel Portela Byrne
-* Ordinary Committee Member: Thomas Reilly, Patrick Hession, Sinead Farrell
+* Ordinary Committee Members: Finbar Ó Deaghaidh, Logan Czernel
