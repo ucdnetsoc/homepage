@@ -16,6 +16,16 @@
         "content",
         "code"
       ]
+    },
+    {
+      "login": "rajitbanerjee",
+      "name": "Rajit Banerjee",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44174210?v=4",
+      "profile": "http://www.linkedin.com/in/rajitbanerjee",
+      "contributions": [
+        "code",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
