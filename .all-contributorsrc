@@ -26,6 +26,15 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "ash-xyz",
+      "name": "Ashraf Ali",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9270934?v=4",
+      "profile": "http://ash.xyz",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
