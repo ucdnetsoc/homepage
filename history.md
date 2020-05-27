@@ -7,7 +7,7 @@ Originally founded in 1995 to provide UCD students with Internet access, we now 
 
 ### Committee 2019/20:
 * Auditor: Thomas Creavin
-* Vice Auditor: Nicola McCabe
+* Vice Auditor: Nicole McCabe
 * Treasurer: Liew Xuan
 * Assistant Secretary: Oisín Quinn
 * Head SysAdmin: Adrian Wennberg
