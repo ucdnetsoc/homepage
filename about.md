@@ -18,4 +18,4 @@ We are Netsoc, UCD's Internet & Computer Science Society.
 * Graphic Designer: Daniel Portela Byrne
 * Ordinary Committee Members: Finbar Ó Deaghaidh, Logan Czernel
 
-### [History](history)
+You can view previous committees [here](history).
