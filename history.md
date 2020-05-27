@@ -78,6 +78,11 @@ Originally founded in 1995 to provide UCD students with Internet access, we now 
 ### Committee 2010/11:
 
 * Auditor: Aidan Church
+* Secretary: Gavin Hillick
+* Treasurer: Warren Hanna
+* Head SysAdmin: Sam Dunne
+* Ordinary Committee Member: Chris Duffin, Chris Salij, Ken O'Brien
+* SysAdmin: Ken O'Brien
 
 ### Committee 2009/10:
 
