@@ -7,17 +7,14 @@ plugins: [jekyll-paginate-v2]
 pagination:
     enabled: false
 
-comments: true
-
-#source: source
 destination: _site
 sass:
     sass_dir: _sass
-    style: compressed # expanded
+    style: compressed 
 
 # SEO settings
 title: UCD Netsoc
-description: "UCD's Networking and Computing Society"
+description: "UCD's Internet & Computer Science Society"
 keywords: "netsoc, ucd, ucd netsoc"
 url: http://netsoc.ucd.ie"
 baseurl: ""
@@ -34,6 +31,8 @@ navbar:
       title: About
     - slug: docs
       title: Docs
+    - slug: blog
+      title: Blog
 
 exclude:
     [
