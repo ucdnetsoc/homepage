@@ -10,7 +10,7 @@ We are Netsoc, UCD's Internet & Computer Science Society.
 
 * Auditor: Nicole McCabe
 * Vice Auditor: Seán Lacey
-* Treasurer: Liew Xuan
+* Treasurer: Emily Liew
 * Ex Officio: Thomas Creavin
 * Head SysAdmin: David Loftus
 * Public Relations Officer: Karen Kelly
