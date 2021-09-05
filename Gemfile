@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~>3.6.0"
+gem "jekyll", "~>4.2.0"
 gem 'rake'
 gem 'sassc-rails'
 gem "json", "~> 2"
@@ -21,7 +21,7 @@ gem "json", "~> 2"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "bourbon", "~>4.3"
-  gem "jekyll-feed", "~>0.6"
+  gem "jekyll-feed", "~>0.15"
   gem "jekyll-paginate-v2"
   gem "pygments.rb"
   gem "jekyll-compose"
