@@ -5,6 +5,18 @@ permalink: /about/history/
 ---
 Originally founded in 1995 to provide UCD students with Internet access, we now run tech-focused events.
 
+### Committee 2020/21:
+
+* Auditor: Nicole McCabe
+* Vice Auditor: Seán Lacey
+* Treasurer: Emily Liew
+* Ex Officio: Thomas Creavin
+* Head SysAdmin: David Loftus
+* Public Relations Officer: Karen Kelly
+* Events Officers: John Keegan, Gerard Colman, Ashraf Ali
+* Graphic Designer: Daniel Portela Byrne
+* Ordinary Committee Members: Finbar Ó Deaghaidh, Logan Czernel
+
 ### Committee 2019/20:
 * Auditor: Thomas Creavin
 * Vice Auditor: Nicole McCabe
