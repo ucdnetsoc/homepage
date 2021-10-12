@@ -31,8 +31,6 @@ author:
 navbar:
     - slug: about
       title: About
-    - slug: docs
-      title: Docs
 
 exclude:
     [
