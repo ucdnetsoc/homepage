@@ -6,16 +6,16 @@ permalink: /about/
 
 We are Netsoc, UCD's Internet & Computer Science Society.
 
-### Committee 2021/22:
+### Committee 2022/23:
 
-* Auditor: Ashraf Ali
-* Vice Auditor: Karen Kelly
-* Treasurer: Kar Yen Yap
-* Ex Officio: Nicole McCabe
-* Head SysAdmin: David Loftus
-* Public Relations Officer: Chris Thomas
-* Events Officers: Seán Lacey, Atseosi Idogho, Chen Wei Lin
-* Graphic Designer: Daniel Portela Byrne, Karol Wójcik
-* Ordinary Committee Members: Sam Cy, Cathal Poon
+* Auditor: Chris Thomas
+* Vice Auditor: Kar Yen Yap
+* Treasurer: Yosra Hashim
+* Ex Officio: Ashraf Ali
+* Head SysAdmin: TBD
+* Public Relations Officer: Jasmine Ogun
+* Events Officers: Cathal Poon, Nicole McCabe, Natalia Winkel
+* Graphic Designer: , Karol Wójcik, Fionn Murphy
+* Ordinary Committee Members: Chen Wei Lin, Atseosi Idogho
 
 You can view previous committees [here](history).
