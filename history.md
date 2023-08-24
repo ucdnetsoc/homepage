@@ -11,7 +11,7 @@ Originally founded in 1995 to provide UCD students with Internet access, we now 
 * Vice Auditor: Kar Yen Yap
 * Treasurer: Yosra Hashim
 * Ex Officio: Ashraf Ali
-* Head SysAdmin: TBD
+* Head SysAdmin: Gavin Guthrie
 * Public Relations Officer: Jasmine Ogun
 * Events Officers: Cathal Poon, Nicole McCabe, Natalia Winkel
 * Graphic Designer: , Karol Wójcik, Fionn Murphy
