@@ -6,7 +6,7 @@ permalink: /about/
 
 We are Netsoc, UCD's Internet & Computer Science Society.
 
-### Committee 2022/23:
+### Committee 2023/24:
 
 * Auditor: Fionn Murphy
 * Vice Auditor: Pallavi Thapliyal
