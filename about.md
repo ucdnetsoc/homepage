@@ -12,9 +12,10 @@ We are Netsoc, UCD's Internet & Computer Science Society.
 * Vice Auditor: Pallavi Thapliyal
 * Treasurer: Kushagra Mittal
 * Ex Officio: Chris Thomas
-* Head SysAdmin: Gavin Guthrie
-* Events Officers: Banerjee Tamoghno, Bhumit Kaushik
-* Graphic Designer: Malhar Bhattacharya
+* Head SysAdmin: TBD
+* Public Relations Officer: Jasmine Ogun
+* Events Officers: Tamoghno Banerjee, Bhumit Kaushik
+* Graphic Designer: Malhar Bhattacharya, Bokang Ramatla
 * Ordinary Committee Members: Eddie Antonio Santos
 
 You can view previous committees [here](history).

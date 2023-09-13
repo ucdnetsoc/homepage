@@ -14,7 +14,7 @@ Originally founded in 1995 to provide UCD students with Internet access, we now 
 * Head SysAdmin: Gavin Guthrie
 * Public Relations Officer: Jasmine Ogun
 * Events Officers: Cathal Poon, Nicole McCabe, Natalia Winkel
-* Graphic Designer: , Karol Wójcik, Fionn Murphy
+* Graphic Designer: Karol Wójcik, Fionn Murphy
 * Ordinary Committee Members: Chen Wei Lin, Atseosi Idogho
 
 ### Committee 2021/22:
