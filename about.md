@@ -21,4 +21,4 @@ We are Netsoc, UCD's Internet & Computer Science Society.
 
 You can view previous committees [here](history).
 
-Confused? Check out the [documentation](https://eoin-cr.github.io/netsoc-mdwiki/#!index.md)!
+Confused? Check out the [documentation](https://docs.netsoc.com)!
